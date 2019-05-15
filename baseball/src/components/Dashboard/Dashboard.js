@@ -9,9 +9,7 @@ const Dashboard = props => {
             <div>
                 <p>Ball
             </p>
-                <button
-                    onClick={() => props.ball()}
-                >+</button>
+                <button onClick={() => props.ball()}>+</button>
             </div>
 
 
